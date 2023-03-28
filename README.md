@@ -4,11 +4,11 @@ Hey, i'm Nícholas Silva, a Computer Science student in UFRPE!
 <img align="right" height="150" width="150" src="https://user-images.githubusercontent.com/61706973/175327627-698007fc-9ba0-45ff-958c-54b5e4f8ffeb.gif">
   
   <div style="display: inline_block" align="left"><br>
-  <img align="center" alt="Nike-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nike-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nike-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Nike-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Nike-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">         
+  <img align="center" alt="Nike-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">         
+  <img align="center" alt="Nike-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">         
+
   <!--<img align="right" alt="Nike-Pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/61706973/175327627-698007fc-9ba0-45ff-958c-54b5e4f8ffeb.gif">-->
  </div>
 
