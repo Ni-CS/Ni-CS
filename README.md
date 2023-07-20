@@ -17,7 +17,4 @@ Hey, i'm Nícholas Silva, a Computer Science student in UFRPE!
   <div> 
   <a href="https://www.instagram.com/ncs.2004" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:nichcs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-</div>
-
-  ![Snake animation](https://github.com/Nikkeru-137/Nikkeru-137/blob/output/github-contribution-grid-snake.svg)
-  
+</div> 
