@@ -1,6 +1,6 @@
 ### Eae, sou o Nícholas Silva, estudante de Ciência da Computação na UFRPE!
 Hey, i'm Nícholas Silva, a Computer Science student in UFRPE!
-<br>Backend Java Developer
+<br>Going to be a Backend Java Developer
 
 <img align="right" height="150" width="150" src="https://user-images.githubusercontent.com/61706973/175327627-698007fc-9ba0-45ff-958c-54b5e4f8ffeb.gif">
   
