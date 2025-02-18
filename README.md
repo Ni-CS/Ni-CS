@@ -1,15 +1,25 @@
 ### Eae, sou o Nícholas Silva, estudante de Ciência da Computação na UFRPE!
 Hey, i'm Nícholas Silva, a Computer Science student in UFRPE!
-<br>Current on AI, Machine Learning, Deep Learning and Back End Development
+<br>Current i'm an intern at ISI-TICs (Instituto Senai de  Inovação - Tecnologias da Informação e Comunicação), working mostly with computer vision on edge devices, microcontrollers, drones. On my free time i'm learning how to use Blender and crateing some minecraft mods!
+
+If you want some help ou get in contact, feel free to reach out to me through my socials and email mencioned down below.
 
 <img align="right" height="150" width="150" src="https://user-images.githubusercontent.com/61706973/175327627-698007fc-9ba0-45ff-958c-54b5e4f8ffeb.gif">
   
   <div style="display: inline_block" align="left"><br>
-  <img align="center" alt="Nike-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">     
-  <img align="center" alt="Nike-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">  
-  <img align="center" alt="Nike-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">   
-  <img align="center" alt="Nike-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Nike-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+  <img align="center" alt="Nike-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>            
+  <img align="center" alt="Nike-Anaconda" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />  
+  <img align="center" alt="Nike-TF" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
+  <img align="center" alt="Nike-Torch" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
+  <img align="center" alt="Nike-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> 
+  <img align="center" alt="Nike-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"/>
+  <img align="center" alt="Nike-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+  <img align="center" alt="Nike-Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg"/>
+  
+          
+  <!--<img align="center" alt="Nike-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"> -->   
+  <!--<img align="center" alt="Nike-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Nike-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> -->
         
 
   
