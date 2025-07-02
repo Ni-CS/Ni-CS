@@ -1,6 +1,6 @@
 ### Eae, sou o Nícholas Silva, estudante de Ciência da Computação na UFRPE!
 Hey, i'm Nícholas Silva, a Computer Science student in UFRPE!
-<br>Current i'm an intern at ISI-TICs (Instituto Senai de  Inovação - Tecnologias da Informação e Comunicação), working mostly with computer vision on edge devices, microcontrollers, drones. On my free time i'm learning how to use Blender and crateing some minecraft mods!
+<br>Currently, I'm an intern at ISI-TICs (Instituto Senai de Inovação - Tecnologias da Informação e Comunicação), working mostly with computer vision on edge devices, microcontrollers, and drones. In my free time, I'm learning how to use Blender and creating some Minecraft mods!
 
 If you want some help ou get in contact, feel free to reach out to me through my socials and email mencioned down below.
 
