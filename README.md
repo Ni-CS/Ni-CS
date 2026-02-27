@@ -1,8 +1,8 @@
-### Eae, sou o Nícholas Silva, estudante de Ciência da Computação na UFRPE!
-Hey, i'm Nícholas Silva, a Computer Science student in UFRPE!
-<br>Currently, I'm an intern at ISI-TICs (Instituto Senai de Inovação - Tecnologias da Informação e Comunicação), working mostly with computer vision on edge devices, microcontrollers, and drones. In my free time, I'm learning how to use Blender and creating some Minecraft mods!
+### Eae, sou o Nícholas Camargo, estudante de Ciência da Computação na UFRPE!
+Hey, i'm Nícholas Camargo, a Computer Science student at UFRPE!
+<br>Currently, I'm an AI Developer (Autonomous Systems) at ISI-TICs (Instituto SENAI de Inovação – Tecnologias da Informação e Comunicação), where I mainly work with computer vision on edge devices, microcontrollers, and drones. In my free time, I'm learning how to use Blender and creating some Minecraft mods!
 
-If you want some help ou get in contact, feel free to reach out to me through my socials and email mencioned down below.
+If you need any help or would like to get in touch, feel free to reach out through my social media or email mentioned below.
 
 <img align="right" height="150" width="150" src="https://user-images.githubusercontent.com/61706973/175327627-698007fc-9ba0-45ff-958c-54b5e4f8ffeb.gif">
   
